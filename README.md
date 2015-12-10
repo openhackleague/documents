@@ -4,7 +4,7 @@ The open source student hackathon league and leaderboards.
 ##Purpose
 To provide an alternative, open, hackathon league run for and by students and the community.
 
-1. Hackathon Leaderboards  
+####Hackathon Leaderboards  
 
 The defining feature of any league is a ranking system in which students can earn points for themselves and their team by placing at competitions.  
 
