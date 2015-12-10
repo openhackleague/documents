@@ -17,7 +17,7 @@ The top priority things that an MVP of Open Hack League would need are as follow
 
 1. A ruleset to define how students and schools are awarded points.  Including rules defining which events and participants are eligible, and how many points a given award receives.
 
-2. A design and implementation of the actual leaderboard.  Included webhosting, HTML, and CSS of what the leaderboard actually looks like.
+2. A design and implementation of the leaderboard.  Included webhosting, HTML, and CSS of what the leaderboard actually looks like.
 
 3. Data collection methods and information on which participants and school have won awards at eligible competitions so as to accurately assign them points.
 
