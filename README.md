@@ -2,7 +2,9 @@
 The open source student hackathon league and leaderboards. 
 
 ##Purpose
-To provide an alternative, open, hackathon league run for and by students and the community.  The project will be run with a focus on radical transparency and community involvement.
+To provide an alternative, open, hackathon league run for and by students and the community.  The project will be run with a focus on radical transparency, community involvement, and decentralization.
+
+The purpose is NOT to be an overarching governing organization, that provides sponsorships, makes rules, or tells you how to run your events.  Students should run their hackathons however they like.  We are only here to fill the very niche goal of promoting friendly competition and keeping score.
 
 ####Hackathon Leaderboards  
 
