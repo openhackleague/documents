@@ -15,7 +15,7 @@ As a community run group, anyone should feel free to submit pull requests to imp
 
 The top priority things that an MVP of Open Hack League would need are as follows:
 
-1. A ruleset to define how students and schools are awarded points.  Including rules defining which events and participants are eligible, and how many points a given award receives.
+1. A ruleset to define how students and schools are awarded points.  Including rules defining which events and participants are eligible, and how many points a given award receives.  A pre-alpha working draft can be found [here](https://github.com/stale2000/open-hack-league/blob/master/leaderboard.md).
 
 2. A design and implementation of the leaderboard.  Included webhosting, HTML, and CSS of what the leaderboard actually looks like.
 
