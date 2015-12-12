@@ -25,7 +25,9 @@ The top priority things that an MVP of Open Hack League would need are as follow
 
 ##Project Owners
 For general inquires about the project contact:
+
 [Bryan Wade](https://github.com/stale2000) [FB Link](https://www.facebook.com/BCWade) -CMU graduate, software engineer in the Bay Area, and hackathon enthusiast
 
 If you want to help work on the MVP, or have technical questions/suggestions contact:
+
 [Anand Capur](https://github.com/arcdigital) [FB Link](https://www.facebook.com/anand.capur)
