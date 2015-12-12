@@ -23,7 +23,9 @@ The top priority things that an MVP of Open Hack League would need are as follow
 
 3. Data collection methods and information on which participants and school have won awards at eligible competitions so as to accurately assign them points.
 
-##Current Project Owner
-[Bryan Wade](https://github.com/stale2000) -CMU graduate, software engineer in the Bay Area, and hackathon enthusiast
+##Project Owners
+For general inquires about the project contact:
+[Bryan Wade](https://github.com/stale2000) [FB Link](https://www.facebook.com/BCWade) -CMU graduate, software engineer in the Bay Area, and hackathon enthusiast
 
-In the initial stages I will be the "github owner" but as soon as this gets enough traction and interest I want the project to be run by the community.
+If you want to help work on the MVP, or have technical questions/suggestions contact:
+[Anand Capur](https://github.com/arcdigital) [FB Link](https://www.facebook.com/anand.capur)
